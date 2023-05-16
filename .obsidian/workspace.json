@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "2752230ab10eb3e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "8afffafd02369515",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5df856ba3f2405af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/basic/grammar.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "be19241b771a5bef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/types/number.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "be7317121688004d",
+    "type": "split",
+    "children": [
+      {
+        "id": "940dd4b5b78bf239",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fbcb730f14b58b85",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "02bae94ef0572ccc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9c9b5626b1967c38",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8977ab2b65fc47b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "439e4be6dfb2325c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "332bf88658bee0a1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/basic/grammar.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5c98a5b4332673da",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "docs/basic/grammar.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9d77a7b6e1ebbc4d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bf71c27e15d5e435",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "docs/basic/grammar.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "5df856ba3f2405af",
+  "lastOpenFiles": [
+    "docs/types/number.md",
+    "docs/basic/grammar.md",
+    "note/types/string.md",
+    "note/types/number.md",
+    "note/types/general.md",
+    "note/types/null-undefined-boolean.md",
+    "docs/operators/bit.md",
+    "docs/types/general.md",
+    "note/basic/grammar.md",
+    "README.md",
+    "note/basic/introduction.md",
+    "note/basic/history.md",
+    "note/dom/document.md",
+    "note/preface.md",
+    "note/types/object.md",
+    "note/types/function.md",
+    "note/types/array.md",
+    "note/types",
+    "note/stdlib/wrapper.md",
+    "note/stdlib/string.md",
+    "note/stdlib/regexp.md",
+    "note/stdlib/object.md",
+    "note/stdlib/number.md",
+    "note/stdlib/math.md",
+    "note/stdlib/json.md",
+    "note/stdlib/date.md",
+    "note/stdlib/attributes.md",
+    "note/stdlib",
+    "note/operators",
+    "note/oop",
+    "note/features",
+    "note/events",
+    "note/elements",
+    "note/dom",
+    "note/bom",
+    "note/basic"
+  ]
+}

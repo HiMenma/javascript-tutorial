@@ -6,3 +6,5 @@
 
 JavaScript 后续新增的 ES6 语法，请看[《ES6 标准入门教程》](https://wangdoc.com/es6/)。
 
+Menma：note文件夹里是我觉得自己需要review的内容。20230516
+
