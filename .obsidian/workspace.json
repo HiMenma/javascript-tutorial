@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/basic/grammar.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "be19241b771a5bef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/types/number.md",
+                "file": "note/types/function.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/basic/grammar.md",
+                "file": "note/types/function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/basic/grammar.md",
+                "file": "note/types/function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,16 +125,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/basic/grammar.md"
+                "file": "note/types/function.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,27 +143,28 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false
     }
   },
   "active": "5df856ba3f2405af",
   "lastOpenFiles": [
-    "docs/types/number.md",
-    "docs/basic/grammar.md",
     "note/types/string.md",
-    "note/types/number.md",
     "note/types/general.md",
-    "note/types/null-undefined-boolean.md",
+    "note/types/object.md",
+    "docs/types/number.md",
+    "note/types/function.md",
+    "note/types/number.md",
     "docs/operators/bit.md",
-    "docs/types/general.md",
+    "note/types/null-undefined-boolean.md",
     "note/basic/grammar.md",
+    "docs/basic/grammar.md",
+    "docs/types/general.md",
     "README.md",
     "note/basic/introduction.md",
     "note/basic/history.md",
     "note/dom/document.md",
     "note/preface.md",
-    "note/types/object.md",
-    "note/types/function.md",
     "note/types/array.md",
     "note/types",
     "note/stdlib/wrapper.md",
