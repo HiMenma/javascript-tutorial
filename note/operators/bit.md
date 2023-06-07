@@ -1,3 +1,4 @@
+原文：[[docs/operators/bit|bit]]
 # 二进制位运算符
 
 ## 概述
