@@ -1,3 +1,4 @@
+原文：[[docs/features/conversion|conversion]]
 # 数据类型的转换
 
 ## 概述
